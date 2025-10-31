@@ -1,6 +1,6 @@
-# Learning Path AI Frontend
+# Learning Path AI 
 
-A modern React frontend for the Learning Path AI application that generates AI-powered learning paths with modules, YouTube recommendations, and quizzes.
+A modern React  for the Learning Path AI application that generates AI-powered learning paths with modules, YouTube recommendations, and quizzes.
 
 ## Features
 
